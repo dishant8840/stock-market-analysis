@@ -16,7 +16,7 @@ To run this notebook, ensure the following packages are installed:
 
 5.tensorflow
 
-Installation
+## Installation
 Install my-project with npm
 
   git clone https://github.com/yourusername/your-repo-name.git
@@ -36,7 +36,7 @@ pip install scikit-learn
 Install TensorFlow:
 
 pip install tensorflow
-Features
+## Features
 Time-Series Forecasting using LSTM neural networks
 Configurable lookback window for sequence generation
 Data normalization using MinMaxScaler
@@ -45,7 +45,7 @@ Evaluation using RMSE, MAE, and R² Score
 Training optimized with EarlyStopping and ReduceLROnPlateau
 Visual comparison of predicted vs actual stock prices
 Modular code structure for easy experimentation and tuning
-Performance Metrics
+## Performance Metrics
 The model's performance was evaluated using three key regression metrics:
 
 RMSE (Root Mean Squared Error):
